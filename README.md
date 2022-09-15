@@ -1,6 +1,17 @@
-# elite101
-Class tues/thurs Elite - C2C
+# Introduction
 
 
-[Google](https://google.com) <br>
-[Books](https://books.rahutch.me)
+This is a repository created by *Firstname*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
+```
