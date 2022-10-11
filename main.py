@@ -1,4 +1,4 @@
 import math
 
 
-val = 2+2
+val = 2+4
