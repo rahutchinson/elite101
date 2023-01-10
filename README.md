@@ -10,7 +10,7 @@ This is a repository created by *Firstname*
 Run this command to execute the application:
 
 
-`python filename.py`
+`python filename2.py`
 
  
 
